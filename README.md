@@ -7,8 +7,8 @@ Change this section(in the php.file) according to what roles and what redirects 
     // Define role-based redirects
     $role_redirects = array(
         'administrator' => '/admin-dashboard/',
-        'medarbajder' => '/medarbajder-dashboard/',
-        'leder' => '/leder-dashboard/',
+        'user' => '/user/',
+        'user2' => '/user2/',
     );
 
 
